@@ -87,13 +87,3 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/pacman-contribution-graph.svg">
   </picture>
   <br>
-| Frontend | Backend | DevOps | SGBD | Tools | SO |
-| --- | --- | --- | --- | --- | --- |
-| Next.js | Java | Git | MySQL | VS Code | Linux |
-| React | Spring | Docker | MongoDB | Android Studio | Windows |
-| TypeScript | Node.js | Kubernetes | Firebase | Postman | |
-| Tailwind CSS | Express.js | Ansible | CouchDB | RabbitMQ | |
-| jQuery | Redis | Terraform | | AWS | |
-| Sass | Sequelize | Prometheus | | GitHub | |
-| Angular | Kafka | Jenkins | | | |
-
