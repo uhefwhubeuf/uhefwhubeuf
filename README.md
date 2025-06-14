@@ -50,12 +50,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
     </svg>
   </div>
 </div>
-<style>
-  .icon:hover {
-    transform: scale(1.1) translateY(-8px);
-  }
-</style>
-
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeneiltongpdev/zeneiltongpdev/output/pacman-contribution-graph-dark.svg">
