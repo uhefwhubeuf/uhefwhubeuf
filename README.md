@@ -24,12 +24,13 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 
 # ✨ Contato
 
-<a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+<a href="https://www.linkedin.com/in/henrique-de-avila-bento-02532b352/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-       width="50" height="50"
-       style="transition: transform 0.3s, box-shadow 0.3s; cursor: pointer; border-radius: 12px;"
-       onmouseover="this.style.transform='scale(1.2)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.3)'"
-       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'">
+       width="50" height="50">
+</a>
+<a href="https://www.linkedin.com/in/henrique-de-avila-bento-02532b352/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+       width="50" height="50">
 </a>
 
 
