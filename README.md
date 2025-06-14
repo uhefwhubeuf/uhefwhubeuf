@@ -23,9 +23,23 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 ### ✉️ Como Entrar em Contato
 
 # ✨ Contato
+<style>
+  .linkedin-icon {
+    width: 50px;
+    height: 50px;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+
+  .linkedin-icon:hover {
+    transform: scale(1.2);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+</style>
+
 <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" class="linkedin-icon">
 </a>
+
 
 
 <!-- Gráfico de contribuições -->
