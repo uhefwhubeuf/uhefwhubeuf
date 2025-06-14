@@ -13,9 +13,12 @@ Estudante de Engenharia da Computação apaixonado por criar soluções inovador
 
 ---
 ## 🌍 Idiomas
-<img src="https://www.svgrepo.com/show/248851/united-states.svg" width="50" title="INGLES" alt="HTML"/>
-<img src="https://www.svgrepo.com/show/248935/spain.svg" width="50" title="ESPANHOL" alt="HTML"/>
-<img src="https://www.svgrepo.com/show/248829/brazil.svg" width="50" title="PORTUGUES" alt="HTML"/>
+<div style="display: flex; gap: 10px;">
+    <img src="https://www.svgrepo.com/show/248851/united-states.svg" width="50" title="INGLES" alt="HTML"/>
+    <img src="https://www.svgrepo.com/show/248935/spain.svg" width="50" title="ESPANHOL" alt="HTML"/>
+    <img src="https://www.svgrepo.com/show/248829/brazil.svg" width="50" title="PORTUGUES" alt="HTML"/>
+</div>
+
 
 ### Inglês (Nivel Avançado)
 ### Espanhol (Fluente)
