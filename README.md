@@ -1,5 +1,5 @@
 
-<a href="https://github.com/seuGithub">
+<a href="https://github.com/uhefwhubeuf">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=301934&height=250&section=header&text=Oi!%20Eu%20sou%20o%20Henrique!&reversal=false&textBg=false&fontColor=CBC3E3&fontSize=40&fontAlignY=30&animation=fadeIn&desc=Atualmente%20estou%20cursando%20Engenharia%20da%20Computação.%20🖥️"/>
 </a>
 
@@ -12,6 +12,14 @@ Estudante de Engenharia da Computação apaixonado por criar soluções inovador
 
 
 ---
+## 🌍 Idiomas
+<img src="https://www.svgrepo.com/show/248851/united-states.svg" width="50" title="INGLES" alt="HTML"/>
+<img src="https://www.svgrepo.com/show/248935/spain.svg" width="50" title="ESPANHOL" alt="HTML"/>
+<img src="https://www.svgrepo.com/show/248829/brazil.svg" width="50" title="PORTUGUES" alt="HTML"/>
+
+### Inglês (Nivel Avançado)
+### Espanhol (Fluente)
+### Português (Nativo)
 
 
 <!-- Gráfico de contribuições -->
@@ -20,7 +28,7 @@ Estudante de Engenharia da Computação apaixonado por criar soluções inovador
 <div align="center">
 <table style="width:100%">
     <tr align="center">
-        <td>Frontend</td>
+        <td>Front-End</td>
         <td>
             <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" title="HTML" alt="HTML"/>
@@ -38,7 +46,7 @@ Estudante de Engenharia da Computação apaixonado por criar soluções inovador
         </td>
     </tr>
     <tr align="center">
-        <td>Backend</td>
+        <td>Back-End</td>
         <td>
             <a href="https://devdocs.io/c/">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" title="C" alt="C"/>
@@ -101,6 +109,6 @@ Estudante de Engenharia da Computação apaixonado por criar soluções inovador
   <img src="https://www.svgrepo.com/show/452213/gmail.svg"width="50" height="50">
 </a>
 <br>
-  <a href="https://github.com/zeneiltongpdev">
+  <a href="https://github.com/uhefwhubeuf">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=301934&height=120&section=footer"/>
   </a>
