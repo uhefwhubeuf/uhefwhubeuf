@@ -8,7 +8,13 @@
 
 ### 🚀 Sobre Mim
 
-Estudante de Engenharia da Computação apaixonado por criar soluções inovadoras e eficientes. Com foco em Back-End, busco constantemente aprender e aplicar as melhores práticas do mercado. Minha jornada no mundo da programação é impulsionada pela curiosidade e pelo desejo de transformar ideias em realidade.
+Sou estudante de Engenharia da Computação no Centro Universitário Facens e sou apaixonado por criar soluções inovadoras e eficientes. Meu foco principal é o desenvolvimento Back-End, e estou sempre buscando aprender e aplicar as melhores práticas do mercado para aprimorar minhas habilidades.
+
+Durante minha trajetória acadêmica, participei de diversos projetos, um dos mais marcantes sendo a UPX. Junto com um grupo de amigos, desenvolvemos um identificador de vagas de estacionamento inteligentes, um sistema que visa otimizar a experiência dos motoristas e melhorar o fluxo em estacionamentos. Esse projeto me proporcionou desafios empolgantes e reforçou minha paixão por tecnologia e inovação.
+
+Além disso, tive a oportunidade de competir na 19ª Maratona de Programação da FACENS, onde eu e mais um grupo de amigos enfrentamos um total de 30 equipes. A experiência foi intensa e desafiadora, exigindo pensamento rápido, resolução de problemas e trabalho em equipe. Foi uma oportunidade incrível para testar minhas habilidades sob pressão e aprender com outros competidores talentosos.
+
+A curiosidade e o desejo de transformar ideias em realidade são o que me impulsionam a continuar explorando novas possibilidades no mundo da programação. 🚀
 
 
 ---
