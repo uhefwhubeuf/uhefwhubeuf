@@ -1,7 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Henrique%20de%20Avila&fontSize=90)
+<a href="https://github.com/seuGithub">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=301934&height=250&section=header&text=Oi!%20Eu%20sou%20o%20Henrique!&reversal=false&textBg=false&fontColor=CBC3E3&fontSize=40&fontAlignY=30&animation=fadeIn&desc=Atualmente%20estou%20cursando%20Engenharia%20da%20Computação.%20🖥️"/>
+</a>
 
-# 👋 Olá, eu sou Henrique de Avila Bento!
 
 
 
@@ -67,14 +68,14 @@ Estudante de Engenharia da Computação apaixonado por criar soluções inovador
             </a>
         </td>
         <td>
-            <a href="https://www.java.com/">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" title="Java" alt="Java"/>
+            <a href="https://cplusplus.com/doc/tutorial/">
+                <img src="https://www.svgrepo.com/show/375451/iot-core.svg" width="50" title="C++" alt="C++"/>
             </a>
         </td>
-    </tr>
+        <td>           
 </table>
 </div>
-<h2>📈 Contribuições no GitHub</h2>
+<h2>📈 Commits no GitHub</h2>
   <br>
   <div align="center">
   <picture>
@@ -84,8 +85,10 @@ Estudante de Engenharia da Computação apaixonado por criar soluções inovador
   </picture>
   <br>
 
+<br>
+<br>
 
-  # ✨ Contatos
+  # 📱 Contatos
 
 <a href="https://www.linkedin.com/in/henrique-de-avila-bento-02532b352/" target="blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
@@ -98,3 +101,6 @@ Estudante de Engenharia da Computação apaixonado por criar soluções inovador
   <img src="https://www.svgrepo.com/show/452213/gmail.svg"width="50" height="50">
 </a>
 <br>
+  <a href="https://github.com/zeneiltongpdev">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=301934&height=120&section=footer"/>
+  </a>
