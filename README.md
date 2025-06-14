@@ -20,9 +20,9 @@ Estudante de Engenharia da Computação apaixonado por criar soluções inovador
 </div>
 
 
-### Inglês (Nivel Avançado)
-### Espanhol (Fluente)
-### Português (Nativo)
+* ### Inglês (*Nivel Avançado*)
+* ### Espanhol (*Fluente*)
+* ### Português (*Nativo*)
 
 
 <!-- Gráfico de contribuições -->
