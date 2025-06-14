@@ -8,13 +8,13 @@
 
 ### 🚀 Sobre Mim
 
-Sou estudante de Engenharia da Computação no Centro Universitário Facens e sou apaixonado por criar soluções inovadoras e eficientes. Meu foco principal é o desenvolvimento Back-End, e estou sempre buscando aprender e aplicar as melhores práticas do mercado para aprimorar minhas habilidades.
+💻 Graduando em Engenharia da Computação no Centro Universitário Facens, sempre motivado pela busca de soluções tecnológicas inovadoras. Minha expertise está no Back-End, trabalhando com C, C++, Java, PostgreSQL, Git, HTML e CSS, e aprimorando constantemente minhas habilidades para acompanhar as demandas do setor.
 
-Durante minha trajetória acadêmica, participei de diversos projetos, um dos mais marcantes sendo a UPX. Junto com um grupo de amigos, desenvolvemos um identificador de vagas de estacionamento inteligentes, um sistema que visa otimizar a experiência dos motoristas e melhorar o fluxo em estacionamentos. Esse projeto me proporcionou desafios empolgantes e reforçou minha paixão por tecnologia e inovação.
+💼 Minha jornada acadêmica é marcada por desafios e conquistas. Um dos projetos mais impactantes foi a UPX, onde, com um grupo de amigos, desenvolvi um sistema inteligente de identificação de vagas de estacionamento. Também participei da 19ª Maratona de Programação da FACENS, competindo com 30 equipes em uma intensa disputa de lógica e velocidade.
 
-Além disso, tive a oportunidade de competir na 19ª Maratona de Programação da FACENS, onde eu e mais um grupo de amigos enfrentamos um total de 30 equipes. A experiência foi intensa e desafiadora, exigindo pensamento rápido, resolução de problemas e trabalho em equipe. Foi uma oportunidade incrível para testar minhas habilidades sob pressão e aprender com outros competidores talentosos.
+🎓 Engenharia da Computação – Centro Universitário Facens.
 
-A curiosidade e o desejo de transformar ideias em realidade são o que me impulsionam a continuar explorando novas possibilidades no mundo da programação. 🚀
+🚀 No momento, meu foco está em expandir conhecimentos em AWS e Docker, além de aprofundar habilidades no desenvolvimento fullstack.
 
 
 ---
