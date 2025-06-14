@@ -12,9 +12,9 @@
 
 💼 Minha jornada acadêmica é marcada por desafios e conquistas. Um dos projetos mais impactantes foi a UPX, onde, com um grupo de amigos, desenvolvi um sistema inteligente de identificação de vagas de estacionamento. Também participei da 19ª Maratona de Programação da FACENS, competindo com 30 equipes em uma intensa disputa de lógica e velocidade.
 
-🎓 Engenharia da Computação – Centro Universitário Facens.
+🎓 **Engenharia da Computação – Centro Universitário Facens (1º semestre).**
 
-🚀 No momento, meu foco está em expandir conhecimentos em AWS e Docker, além de aprofundar habilidades no desenvolvimento fullstack.
+🚀 No momento, meu foco está em expandir conhecimentos em JAVA e Python.
 
 
 ---
