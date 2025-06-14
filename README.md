@@ -84,19 +84,19 @@ Estudante de Engenharia da Computação apaixonado por criar soluções inovador
             </a>
         </td>
     </tr>
-    <tr align="center">
-        <td>Sistema Operacional</td>
-        <td>
-            <a href="https://www.microsoft.com/windows">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="50" title="Windows" alt="Windows"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.linux.org/">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" title="Linux" alt="Linux"/>
-            </a>
-        </td>
-    </tr>
+   <tr align="center">
+    <td>Sistema Operacional</td>
+    <td>
+        <a href="https://www.microsoft.com/windows">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="50" title="Windows" alt="Windows"/>
+        </a>
+    </td>
+    <td>
+        <a href="https://www.linux.org/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" title="Linux" alt="Linux"/>
+        </a>
+    </td>
+</tr>
     <tr align="center">
         <td>Mobile</td>
         <td>
