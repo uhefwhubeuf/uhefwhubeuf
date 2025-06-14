@@ -52,57 +52,59 @@ Estudante de Engenharia da Computação apaixonado por criar soluções inovador
         <td>Back-End</td>
         <td>
             <a href="https://devdocs.io/c/">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" title="VSCODE" alt="VSCODE"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" title="C" alt="C"/>
             </a>
         </td>
         <td>
             <a href="https://cplusplus.com/doc/tutorial/">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" title="GITHUB" alt="GITHUB"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" title="C++" alt="C++"/>
             </a>
         </td>
         <td>
             <a href="https://www.java.com/">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" title="THINGSPEAK" alt="THINGSPEAK"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" title="Java" alt="Java"/>
             </a>
         </td>
     </tr>
     <tr align="center">
         <td>Tools</td>
         <td>
-            <a href="https://devdocs.io/c/">
-                <img src="https://camo.githubusercontent.com/3083bb2a86bf87e14fd25feb6fa77f609c4ae32d0d50fe87610b4fd612a038cf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" width="50" title="C" alt="C"/>
+            <a href="https://code.visualstudio.com/">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" title="VS Code" alt="VS Code"/>
             </a>
         </td>
         <td>
-            <a href="https://cplusplus.com/doc/tutorial/">
-                <img src="https://camo.githubusercontent.com/dbe4ba9617b5f2b9c3c12682ab9b2c687078af1cd25a2f545461157d8e1e7401/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562" width="50" title="C++" alt="C++"/>
+            <a href="https://github.com/">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" title="GitHub" alt="GitHub"/>
             </a>
         </td>
         <td>
-            <a href="https://cplusplus.com/doc/tutorial/">
-                <img src="https://www.svgrepo.com/show/375451/iot-core.svg" width="50" title="C++" alt="C++"/>
+            <a href="https://thingspeak.com/">
+                <img src="https://www.svgrepo.com/show/375451/iot-core.svg" width="50" title="ThingSpeak" alt="ThingSpeak"/>
             </a>
         </td>
-        <tr align="center">
-            <td>Sistema Operacional</td>
-            <td>
-                <a href="https://www.microsoft.com/windows">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="50" title="Windows" alt="Windows"/>
-                </a>
-            </td>
-            <td>
-                <a href="https://www.linux.org/">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" title="Linux" alt="Linux"/>
-                </a>
-            </td>
-        </tr>
-        <tr align="center">
-            <td>Mobile</td>
-            <td>
-                <a href="https://www.android.com/">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="50" title="Android" alt="Android"/>
-                </a>
-            </td>    
+    </tr>
+    <tr align="center">
+        <td>Sistema Operacional</td>
+        <td>
+            <a href="https://www.microsoft.com/windows">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="50" title="Windows" alt="Windows"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://www.linux.org/">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" title="Linux" alt="Linux"/>
+            </a>
+        </td>
+    </tr>
+    <tr align="center">
+        <td>Mobile</td>
+        <td>
+            <a href="https://www.android.com/">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="50" title="Android" alt="Android"/>
+            </a>
+        </td>
+    </tr>
 </table>
 </div>
 <h2>📈 Commits no GitHub</h2>
