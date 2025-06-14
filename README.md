@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre Mim
 
-💻 Graduando em Engenharia da Computação no Centro Universitário Facens, sempre motivado pela busca de soluções tecnológicas inovadoras. Minha expertise está no Back-End, trabalhando com C, C++, Java, PostgreSQL, Git, HTML e CSS, e aprimorando constantemente minhas habilidades para acompanhar as demandas do setor.
+💻 Graduando em Engenharia da Computação no Centro Universitário Facens, sempre motivado pela busca de soluções tecnológicas inovadoras. Minha experiência está no Back-End, trabalhando com C, C++, Java, Git, e aprimorando constantemente minhas habilidades para acompanhar as demandas do setor.
 
 💼 Minha jornada acadêmica é marcada por desafios e conquistas. Um dos projetos mais impactantes foi a UPX, onde, com um grupo de amigos, desenvolvi um sistema inteligente de identificação de vagas de estacionamento. Também participei da 19ª Maratona de Programação da FACENS, competindo com 30 equipes em uma intensa disputa de lógica e velocidade.
 
